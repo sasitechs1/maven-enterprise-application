@@ -6,7 +6,7 @@
   <packaging>pom</packaging>
   <version>1.0</version>
   <name> Maven Enterprise Application</name>
-  <url>http://maven.apache.org</url>
+  <url>http://65.2.184.174:9866/</url>
   <modules>
     <module>MavenEnterpriseApp-ear</module>
     <module>MavenEnterpriseApp-web</module>
